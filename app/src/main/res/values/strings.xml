@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BMICalculator</string>
+
+    <string name="height">신장 (cm)</string>
+    <string name="weight">체중 (kg)</string>
+    <string name="result">확인하기</string>
+</resources>
