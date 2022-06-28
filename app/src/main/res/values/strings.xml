@@ -1,7 +1,12 @@
 <resources>
     <string name="app_name">BMICalculator</string>
 
+    <!--activity_main-->
     <string name="height">신장 (cm)</string>
     <string name="weight">체중 (kg)</string>
-    <string name="result">확인하기</string>
+    <string name="confirm">확인하기</string>
+
+    <!--activity_result-->
+    <string name="bmiTitle">BMI : </string>
+    <string name="resultTitle">결과는 : </string>
 </resources>
