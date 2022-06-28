@@ -1,4 +1,4 @@
-# BMICalculator
+# BMICalculator(BMI 계산기)
 - 공식 = 몸무게(kg) / (키(m) * 키(m))
 
 BMI수치|결과
