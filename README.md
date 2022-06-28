@@ -2,7 +2,7 @@
 
 <br>
 
-# :green_book:Contents
+# :green_book: Contents
 
 [:one: Specification](#one-specification)<br>
 [:two: 핵심기능 설명](#two-핵심기능-설명)<br>
