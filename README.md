@@ -1,5 +1,10 @@
 # BMICalculator(BMI 계산기)
 
+<table>
+  <td><img src="https://user-images.githubusercontent.com/106309830/176618675-1bb711f9-afa6-4965-bd02-e5ad6f4a20c0.png" width="250" height="500"/></td>
+  <td><img src="https://user-images.githubusercontent.com/106309830/176618679-dcf6c1bb-6145-429a-a5dd-922453507f7f.png" width="250" height="500"/></td>
+</table>
+
 <br>
 
 # :green_book: Contents
