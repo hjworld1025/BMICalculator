@@ -17,10 +17,8 @@
 ## :one: Specification
 기술|설명
 :---|:---
-Architecture|-
 Design Pattern|-
-Jetpack Components|-
-Dependency Injection|-
+[Jetpack Components](https://developer.android.com/jetpack/androidx/explorer?hl=ko&case=all)|-
 Network|-
 Other|-
 
